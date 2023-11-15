@@ -1,0 +1,18 @@
+{
+    "person": {
+      "name": "todd",
+      "age": "26",
+      "gender": "male"
+    },
+    "car": {
+      "name": "Mclaren",
+      "model": "2023"
+    },
+    "Fruits": [
+      { "name": "Orange", "color": "orange" },
+      { "name": "Apple", "color": "Red" },
+      { "name": "Banana", "color": "Yellow" },
+      { "name": "Grapes", "color": "Green" }
+    ]
+  }
+  
